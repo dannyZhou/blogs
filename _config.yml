@@ -1,9 +1,8 @@
 # Site settings
-title: dannyZhou
+title: dannyZhou 的博客
 email: zhoujian8585169@126.com
 description: > # this means to ignore newlines until "baseurl:"
-  this is my blogs and this is my first blog_web_site. 
-  I will using it to write all my blogs.
+  powerdBy: jekyll github
 baseurl: "/blogs/" # the subpath of your site, e.g. /blog/
 url: "http://dannyzhou.github.io/blogs" # the base hostname & protocol for your site
 twitter_username: dannyZhou
