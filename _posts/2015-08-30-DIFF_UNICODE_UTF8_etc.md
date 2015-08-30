@@ -6,6 +6,9 @@ categories: network
 tags: http unicode ascii utf-8 utf-16 utf-32 iso-8859-1
 ---
 
+* content
+{:toc}
+
 ### 序
 > java 中，包括 firefox 等浏览器中，编码问题可能是经常遇到的一个问题了。
 > 今天我们就简单的分析一下常见的格式。如果可能的话，说一些解决办法。

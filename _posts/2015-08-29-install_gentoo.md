@@ -6,6 +6,9 @@ categories: linux
 tags: linux gentoo
 ---
 
+* content
+{:toc}
+
 ### 序
 > 一直想安装一个 gentoo，但是限于电脑笔记本的配置较低，
 > 一直没有实现这个愿望。来到实训基地以后，有了更快的电脑，

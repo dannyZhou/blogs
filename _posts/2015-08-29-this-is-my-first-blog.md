@@ -6,6 +6,9 @@ categories: helloworld
 tags: helloworld
 ---
 
+* content
+{:toc}
+
 ### 序
 > 这可能是我人生中的第一个博客了吧。使用的是 jekyll + Markdown 编写的。
 > 将网站放在了 github pages 上面。每一个人都可以看到。
