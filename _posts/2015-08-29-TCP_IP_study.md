@@ -42,7 +42,7 @@ Host:
 
 ### HTTP 1.1 和 HTTP 1.0 
 HTTP 1.1 是 HTTP 1.0 的升级版。
-一个很明显的区别就是，HTTP 1.0 不需要 Host: 信息发送。 
+一个很明显的区别就是，HTTP 1.1 需要 Host: 报头信息发送。 
 
 ### ATM 
 网络中的 ATM 并不是 ATM 机，而是 [异步传输模式（ATM Asynchronous Transfer Mode）](http://baike.baidu.com/subview/26/5395796.htm)
