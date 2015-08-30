@@ -2,14 +2,15 @@
 layout: post
 title: "济宁惠普实训基地虚拟机安装 gentoo 的经历"
 date: 2015-08-29
-categories: gentoo
+categories: linux
+tags: linux gentoo
 ---
 
 ### 序
- 一直想安装一个 gentoo，但是限于电脑笔记本的配置较低，
- 一直没有实现这个愿望。来到实训基地以后，有了更快的电脑，
- 找了一个星期天，开始了 gentoo 安装的旅程。
- 这里主要是列举了在安装过程中所遇到的问题。
+> 一直想安装一个 gentoo，但是限于电脑笔记本的配置较低，
+> 一直没有实现这个愿望。来到实训基地以后，有了更快的电脑，
+> 找了一个星期天，开始了 gentoo 安装的旅程。
+> 这里主要是列举了在安装过程中所遇到的问题。
 
 ### 安装环境
  宿主机：windows7 Intel(R) Core(TM) i5-4590 CPU @3.30GHz 3.30GHz
@@ -20,6 +21,7 @@ categories: gentoo
 
 ### 参考资料
  [gentoo website](https://www.gentoo.org/)
+ 
  [gentoo wiki install guide](https://wiki.gentoo.org/wiki/Handbook:X86)
 
 ### 遇到的问题——版本问题
