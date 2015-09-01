@@ -110,3 +110,5 @@ zhangSan.setName("zhangSan");
 System.out.println(zhangSan.getName());
 {% endhighlight %}
 这样，就能获取到 他的名字了。
+
+get 和 set 就能表示一个封装。
