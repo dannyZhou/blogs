@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 由 interface 和 Object 有什么关系引出来的一个 pdf 《java语言和虚拟机规范》
-date: 2015-08-30 
+date: 2015-08-31
 categories: java
 tags: java
 ---

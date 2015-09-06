@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 私有变量的一个使用问题
-date: 2015-08-30
+date: 2015-09-01
 categories: java
 tags: java
 ---
