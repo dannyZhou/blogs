@@ -1,6 +1,6 @@
 ---
 layout: post
-title: java 学习主线
+title: 学习主线
 date: 2015-09-06
 categories: java
 tags: java
@@ -13,10 +13,7 @@ tags: java
 英语学习（长期） 
 
 ### 主线1
-数据库练习题
-
-### 主线2
-HashMap 源代码
+数据库 mysql sql pdf 
 
 ### 主线6 
 Annotation 学习
@@ -56,10 +53,18 @@ spring security
 
 java8 新特性
 
+软件工程 卷一
+
+软件工程 卷二
+
+软件工程 卷三
+
 ### 已完成主线
 内部类 简单学习
+数据库练习题
 
 
 ### 搁浅
 getting started with google Guava 翻译
 guava 源代码
+HashMap 源代码
