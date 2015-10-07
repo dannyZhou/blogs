@@ -15,11 +15,16 @@ tags: java
 ### 主线1
 数据库 mysql sql pdf 
 
-### 主线6 
-Annotation 学习
+### 主线2
+反射
+
+### 主线3
+大象 thinking uml
+
+### 主线4
+软件工程 卷一
 
 ### 计划
-反射
 
 java 代理
 
@@ -37,6 +42,10 @@ javaBean
 
 jsp 学习
 
+javaassist 
+
+算法
+
 S2SH 学习
 
 实现一个不可变类
@@ -53,8 +62,6 @@ spring security
 
 java8 新特性
 
-软件工程 卷一
-
 软件工程 卷二
 
 软件工程 卷三
@@ -67,11 +74,14 @@ java8 新特性
 
 ted
 
+servlet / jsp
+
+logger 日志
+
 ### 已完成主线
 内部类 简单学习
 
 数据库练习题
-
 
 ### 搁浅
 getting started with google Guava 翻译
@@ -79,3 +89,5 @@ getting started with google Guava 翻译
 guava 源代码
 
 HashMap 源代码
+
+Annotation 学习
