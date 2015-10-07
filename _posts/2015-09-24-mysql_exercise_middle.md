@@ -1,7 +1,7 @@
 ---
 layout: post
 title: sql 语句中级练习题
-date: 2015-09-21
+date: 2015-09-24
 categories: sql
 tags: sql
 ---
