@@ -16,13 +16,22 @@ tags: java
 数据库 mysql sql pdf 
 
 ### 主线2
-反射
+算法导论
 
 ### 主线3
 大象 thinking uml
 
 ### 主线4
 软件工程 卷一
+
+### 主线5 
+设计模式
+
+### 主线6 
+解析几何
+
+### 主线7
+
 
 ### 计划
 
@@ -78,10 +87,18 @@ servlet / jsp
 
 logger 日志
 
+java jsp tag 编写 标签库  jstl 标签文件
+
+servletRequstWarpper 包装类 4 个. ( 详情参见 servlet/jsp 深入详解 )
+
+guice google light inject method
+
 ### 已完成主线
 内部类 简单学习
 
 数据库练习题
+
+反射
 
 ### 搁浅
 getting started with google Guava 翻译
