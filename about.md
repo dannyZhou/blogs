@@ -6,11 +6,10 @@ permalink: /about/
 
 # 个人信息
 
- - 周健/男/1994 
+ - 男/1994 
  - 本科/曲阜师范大学软件工程
  - 工作年限：2年
  - Github：https://github.com/dannyzhou
- - 微信：15725040705
  - 邮箱：zhoujian8585169@126.com
 
 # 工作经历
@@ -46,13 +45,13 @@ permalink: /about/
 
 以下为我较为熟练使用的技能
 
-- Web开发：Java/PHP
-- Web框架：Spring/Hibernate/Yii
+- Web开发：Java
+- Web框架：Spring/Hibernate
 - 数据库相关：MySQL
 - 版本管理：Git
 - 系统：linux
 
 以下为我了解的技能
 
-- Web开发：Ruby
-- Web框架：Ruby on Rails/React/Vue
+- Web开发：Ruby/PHP
+- Web框架：Ruby on Rails/React/Vue/Yii2
