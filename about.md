@@ -6,11 +6,11 @@ permalink: /about/
 
 # 个人信息
 
- - 男/1994 
+ - 男/1994
  - 本科/曲阜师范大学软件工程
- - 工作年限：2年
+ - 工作年限：3年
  - Github：https://github.com/dannyzhou
- - 邮箱：zhoujian8585169@126.com
+ - 邮箱：dannybook@126.com
 
 # 工作经历
 
@@ -22,7 +22,7 @@ permalink: /about/
 - 主要使用的框架
     - 后端： Spring MVC，Hibernate
     - 客户端：APK 开发采用 Java 开发
-  
+
 ## 群硕软件（上海）有限公司（2015年10月 - 2017年5月）
 
 ### 抱米餐桌管理系统
@@ -34,13 +34,13 @@ permalink: /about/
     - 管理后台页面：AngularJS
     - 前台web：React Redux
     - 微信H5：React Redux
-    - 后端：PHP Yii2  
+    - 后端：PHP Yii2
 
 ### B2C 商城
 - 主要使用的框架
     - 前端：Jquery
     - 后端：Spring MVC Hibernate Freemarker
-   
+
 # 技能清单
 
 以下为我较为熟练使用的技能
